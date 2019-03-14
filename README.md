@@ -1,6 +1,6 @@
 # README #
 
-##USAGE:
+**USAGE**:
 
 1. Navigate to **Crypto_Market_Stats** directory in terminal/console.
 
